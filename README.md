@@ -18,12 +18,12 @@ https://github.com/glizondo/ai-images-prediction-bot
 • Gathered project requirements and conceptualized a web application dedicated to Orchard tree management, employing Figma for design planning. Developed the frontend using React to ensure an intuitive and responsive user interface for seamless tree tracking.
 You can take a look at it thanks to gh-pages here! 
 
-
-• Designed, developed, and presented using Tableau, a web application for PC components sales, employing a React frontend and Spring backend, integrated with MariaDB. Implemented robust security measures using JWT.
-
 • Collaborated with the DevOps team during my summer internship to create a Python and Selenium automation tool, which streamlined error resolution for complex job executions by automating API calls, significantly enhancing the web application's overall functionality.
 
 • Designed and developed features for a startup project in Python to deliver real-time updates for fleet management, incorporating API calls to track their precise locations and developed a React front-end application to provide a user-friendly interface, offering real-time visualization of fleet locations on an interactive map.
+
+• Designed, developed, and presented using Tableau, a web application for PC components sales, employing a React frontend and Spring backend, integrated with MariaDB. Implemented robust security measures using JWT.
+https://glizondo.github.io/pc-components-webapp-frontend/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 🌐 Skills 🌐

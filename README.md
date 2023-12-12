@@ -13,7 +13,7 @@ IEEE Student Member | Dean's List 2022-2023
 🛠️ Projects and Experience
 
 • Developed a Python-based application in a group project utilizing TensorFlow and deep neural networks algorithm to achieve 91% accuracy in predicting between AI-generated and authentic images in machine learning class. The project was showcased at the course faculty conference. Later on, I improved the accuracy to a 93% and implemented the algorithm to be a Telegram bot that tells you if an image is real or made by Skynet (Run Sarah Connor!). Checkout the Telegram bot that I created using the algorithm!
-
+https://github.com/glizondo/ai-images-prediction-bot
 
 • Designed, developed, and presented using Tableau, a web application for PC components sales, employing a React frontend and Spring backend, integrated with MariaDB. Implemented robust security measures using JWT.
 

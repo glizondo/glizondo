@@ -1,9 +1,11 @@
 Hi everyone! My name is Guillermo although some people call me G for simplicity. I'm a dedicated and highly motivated Digital Media Software Engineering student at Ferris State University, with a passion for crafting technology solutions that make a difference. I am graduating in August 2024 but I already had some fun working in some projects. Feel free to take a look at my profile and connect with me. I am also a soccer fan and a photography geek!
 
+
 🎓 Education 🎓
 
 Digital Media Software Engineering @Ferris State University (August 2024)
 IEEE Student Member | Dean's List 2022-2023
+
 
 🛠️ Projects and Experience 🛠️
 
@@ -40,6 +42,7 @@ You can take a look at it thanks to gh-pages here!
 • Development Environment: Android Studio
 
 Yes, that skill is not on the list but give me a few days and I will get it! 😉
+
 
 🌟 Looking Forward 🌟
 

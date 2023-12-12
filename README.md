@@ -23,14 +23,14 @@ You can take a look at it thanks to gh-pages here!
 
 🌐 Skills 🌐
 
-Front end: JavaScript, #React, CSS, HTML
-Backend: #Java, Spring Boot, Bootstrap, JSON, XML, Postman, Rest API, SOAP
-Machine Learning: #Python, TensorFlow, Scikit-Learn, Scripting
-Database Management: Apache Derby, MariaDB, Microsoft SQL Server Management
-Agile Tools: Jira, Trello, Git
-Testing: UI/UX, Selenium
-Programming Paradigm: Object-Oriented Programming (OOP)
-Development Environment: Android Studio
+• Front end: JavaScript, #React, CSS, HTML
+• Backend: #Java, Spring Boot, Bootstrap, JSON, XML, Postman, Rest API, SOAP
+• Machine Learning: #Python, TensorFlow, Scikit-Learn, Scripting
+• Database Management: Apache Derby, MariaDB, Microsoft SQL Server Management
+• Agile Tools: Jira, Trello, Git
+• Testing: UI/UX, Selenium
+• Programming Paradigm: Object-Oriented Programming (OOP)
+• Development Environment: Android Studio
 
 Yes, that skill is not on the list but give me a few days and I will get it! 😉
 

@@ -12,7 +12,7 @@ IEEE Student Member | Dean's List 2022-2023
 ---------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Projects and Experience 🛠️
 
-• Developed a Python-based application in a group project utilizing TensorFlow and deep neural networks algorithm to achieve 91% accuracy in predicting between AI-generated and authentic images in machine learning class. The project was showcased at the course faculty conference. Later on, I improved the accuracy to a 93% and implemented the algorithm to be a Telegram bot that tells you if an image is real or made by Skynet (Run Sarah Connor!). Checkout the Telegram bot that I created using the algorithm!
+• Developed a Python-based application in a group project utilizing TensorFlow and deep neural networks algorithm to achieve 91% accuracy in predicting between AI-generated and authentic images in machine learning class. The project was showcased at the course faculty conference. Later on, improved the accuracy to a 93% and implemented the algorithm to be a Telegram bot that tells you if an image is real or made by Skynet (Run Sarah Connor!). Checkout the Telegram bot that I created using the algorithm!
 https://github.com/glizondo/ai-images-prediction-bot
 
 • Gathered project requirements and conceptualized a web application dedicated to Orchard tree management, employing Figma for design planning. Developed the frontend using React to ensure an intuitive and responsive user interface for seamless tree tracking.
@@ -20,7 +20,7 @@ You can take a look at it thanks to gh-pages here!
 
 • Collaborated with the DevOps team during my summer internship to create a Python and Selenium automation tool, which streamlined error resolution for complex job executions by automating API calls, significantly enhancing the web application's overall functionality.
 
-• Designed and developed features for a startup project in Python to deliver real-time updates for fleet management, incorporating API calls to track their precise locations and developed a React front-end application to provide a user-friendly interface, offering real-time visualization of fleet locations on an interactive map.
+• As an intern, designed and developed features for a startup project in Python to deliver real-time updates for fleet management, incorporating API calls to track their precise locations. Developed a complementative React front-end application to provide a user-friendly interface, offering real-time visualization of fleet locations on an interactive map.
 
 • Designed, developed, and presented using Tableau, a web application for PC components sales, employing a React frontend and Spring backend, integrated with MariaDB. Implemented robust security measures using JWT.
 https://glizondo.github.io/pc-components-webapp-frontend/

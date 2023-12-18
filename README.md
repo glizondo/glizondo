@@ -12,7 +12,7 @@ IEEE Student Member | Dean's List 2022-2023
 ---------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Projects and Experience 🛠️
 
-• Developed a Python-based application in a group project utilizing TensorFlow and deep neural networks algorithm to achieve 91% accuracy in predicting between AI-generated and authentic images in machine learning class. The project was showcased at the course faculty conference. Later on, improved the accuracy to a 93% and implemented the algorithm to be a Telegram bot that tells you if an image is real or made by Skynet (Run Sarah Connor!). You'll be able to use the bot soon!
+• Developed a Python-based application in a group project utilizing TensorFlow and deep neural networks algorithm to achieve 91% accuracy in predicting between AI-generated and authentic images in machine learning class. The project was showcased at the course faculty conference. Later on, improved the accuracy to a 93% and implemented the algorithm to be a Telegram bot that tells you if an image is real or made by Skynet (Run Sarah Connor!). You can use it here: https://t.me/ai_images_prediction_bot
 
 • Gathered project requirements and conceptualized a web application dedicated to Orchard tree management, employing Figma for design planning. Developed the frontend using React to ensure an intuitive and responsive user interface for seamless tree tracking.
 You can take a look at it thanks to gh-pages here!

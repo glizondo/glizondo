@@ -54,8 +54,5 @@ Connect with me to collaborate on innovative projects and explore the intersecti
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-Most Used Languages 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glizondo&theme=tokyonight)
 
 

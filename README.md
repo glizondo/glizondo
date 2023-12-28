@@ -1,15 +1,17 @@
-<p align="center"><h2>👤 About me 👤</h2></p>
+<h2 align="center">👤 About me 👤</h2>
 
 Hi everyone! My name is Guillermo although some people call me G for simplicity. I'm a dedicated and highly motivated Digital Media Software Engineering student at Ferris State University, with a passion for crafting technology solutions that make a difference. I am graduating in August 2024 but I already had fun working in some projects. Feel free to take a look at my profile and connect with me. I am also a soccer fan and a photography geek!
 
----------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center"><h2>🎓 Education 🎓</h2></p>
+</br>
+
+<h2 align="center">🎓 Education 🎓</h2>
 
 Digital Media Software Engineering @Ferris State University (August 2024)
 IEEE Student Member | Dean's List 2022-2023
 
----------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center"><h2>🛠️ Projects and Experience 🛠️</h2></p>
+</br>
+
+<h2 align="center">🛠️ Projects and Experience 🛠️</h2>
 
 • Developed a Python-based application in a group project utilizing TensorFlow and deep neural networks algorithm to achieve 91% accuracy in predicting between AI-generated and authentic images in machine learning class. The project was showcased at the course faculty conference. Later on, improved the accuracy to a 93% and implemented the algorithm to be a Telegram bot that tells you if an image is real or made by Skynet (Run Sarah Connor!). You can use it here: https://t.me/ai_images_prediction_bot
 
@@ -24,8 +26,9 @@ https://glizondo.github.io/orchard-management-frontend
 • Designed, developed, and presented using Tableau, a web application for PC components sales, employing a React frontend and Spring backend, integrated with MariaDB. Implemented robust security measures using JWT.
 https://glizondo.github.io/pc-components-webapp-frontend
 
----------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center"><h2>🌐 Skills 🌐</h2></p>
+</br>
+
+<h2 align="center">🌐 Skills 🌐</h2>
 
 • Front end: JavaScript, #React, CSS, HTML
 
@@ -45,13 +48,14 @@ https://glizondo.github.io/pc-components-webapp-frontend
 
 Yes, that skill is not on the list but give me a few days and I will get it! 😉
 
----------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center"><h2>🌟 Looking Forward 🌟</h2></p>
+</br>
+
+<h2 align="center">🌟 Looking Forward 🌟</h2>
 
 Excited to kick off my capstone project next semester! 🚀
 Connect with me to collaborate on innovative projects and explore the intersection of technology and creativity! 🤝✨ #SoftwareEngineering #DigitalMedia #Innovation #AgileEnthusiast
 
----------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 

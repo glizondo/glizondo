@@ -6,8 +6,8 @@ Hi everyone! My name is Guillermo although some people call me G for simplicity.
 
 <h2 align="center">🎓 Education 🎓</h2>
 
-Digital Media Software Engineering @Ferris State University (August 2024)
-IEEE Student Member | Dean's List 2022-2024
+Digital Media Software Engineering @Ferris State University
+Academic Excellence Award
 
 </br>
 

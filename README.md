@@ -52,7 +52,6 @@ Yes, that skill is not on the list but give me a few days and I will get it! �
 
 <h2 align="center">🌟 Looking Forward 🌟</h2>
 
-Excited to kick off my capstone project next semester! 🚀
 Connect with me to collaborate on innovative projects and explore the intersection of technology and creativity! 🤝✨ #SoftwareEngineering #DigitalMedia #Innovation #AgileEnthusiast
 
 

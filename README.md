@@ -6,7 +6,7 @@ Hi everyone! My name is Guillermo although some people call me G for simplicity.
 
 <h2 align="center">🎓 Education 🎓</h2>
 
-Digital Media Software Engineering @Ferris State University
+Digital Media Software Engineering @Ferris State University </br>
 Academic Excellence Award
 
 </br>

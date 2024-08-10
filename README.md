@@ -32,7 +32,7 @@ https://glizondo.github.io/pc-components-webapp-frontend
 
 • Front end: JavaScript, #React, CSS, HTML
 
-• Backend: #Java, Spring Boot, Bootstrap, JSON, XML, Postman, Rest API, SOAP
+• Backend: #Java, #Kotlin, Spring Boot, Bootstrap, JSON, XML, Postman, Rest API, SOAP
 
 • Machine Learning: #Python, TensorFlow, Scikit-Learn, Scripting
 

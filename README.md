@@ -1,6 +1,6 @@
 <h2 align="center">👤 About me 👤</h2>
 
-Hi everyone! My name is Guillermo although some people call me G for simplicity. I'm a dedicated and highly motivated Digital Media Software Engineering student at Ferris State University, with a passion for crafting technology solutions that make a difference. I am graduating in August 2024 but I already had fun working in some projects. Feel free to take a look at my profile and connect with me. I am also a soccer fan and a photography geek!
+Hi everyone! My name is Guillermo, but some people call me G for simplicity. I'm a full-stack web developer who recently graduated from Ferris State University with a degree in Software Engineering. I love crafting innovative solutions that make a real difference, from building backend projects to designing dynamic front-end experiences.  
 
 </br>
 

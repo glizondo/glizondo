@@ -35,8 +35,8 @@ Connect with me to collaborate on innovative projects and explore creativity! �
 
 <h2 align="center">📊 My GitHub Stats 📊</h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glizondo&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glizondo&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glizondo&layout=compact&theme=dark)
 
 
 

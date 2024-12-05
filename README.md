@@ -1,6 +1,6 @@
 <h2 align="center">👤 About me 👤</h2>
 
-Hi everyone! My name is Guillermo, but some people call me G for simplicity. I'm a full-stack developer graduated from Ferris State University with a degree in Software Engineering. Currently collaborating with DeepXL. I like to build fun projects! Reach out if you want to work on something together!
+Hi everyone! My name is Guillermo, but some people call me Will. I'm a full-stack developer graduated from Ferris State University with a degree in Software Engineering. I am currently collaborating with DeepXL, but I like to build fun projects! Reach out if you want to work on something together!
 
 </br>
 

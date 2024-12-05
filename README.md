@@ -34,8 +34,10 @@ Yes, that skill is not on the list but give me a few days and I will get it! �
 Connect with me to collaborate on innovative projects and explore creativity! 🤝✨ #SoftwareEngineering #Innovation
 
 <h2 align="center">📊 My GitHub Stats 📊</h2>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glizondo&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glizondo&show_icons=true&theme=dark)
+
 
 
 

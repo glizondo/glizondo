@@ -1,6 +1,6 @@
 <h2 align="center">👤 About me 👤</h2>
 
-Hi everyone! My name is Guillermo, but some people call me Will. I'm a full-stack developer graduated from Ferris State University with a degree in Software Engineering. I am currently collaborating with DeepXL, but I like to build fun projects! Reach out if you want to work on something together!
+Hi everyone! My name is Guillermo, but some people call me Will. I'm a software engineer currently working at Cerium Networks, I like to build fun projects that make our lives better! Reach out if you want to work on something together!
 
 </br>
 
@@ -13,17 +13,13 @@ Academic Excellence Award
 
 <h2 align="center">🌐 Skills 🌐</h2>
 
-• Front end: JavaScript, #React, Next, CSS, Tailwind, HTML
+• Front end: JavaScript, TypeScript, #React, Next, CSS, Tailwind, HTML
 
-• Backend: #Java, #Kotlin, Spring Boot, Node, Bootstrap, JSON, XML, Postman, Rest API, SOAP
+• Backend: #Java, #Kotlin, Python, Spring Boot, Node
 
 • Machine Learning: #Python, TensorFlow, Scikit-Learn, Scripting
 
 • Database Management: Apache Derby, MariaDB, Microsoft SQL Server Management, Oracle
-
-• Agile Tools: Jira, Trello, Git
-
-• Testing: UI/UX, Selenium
 
 Yes, that skill is not on the list but give me a few days and I will get it! 😉
 
